@@ -21,10 +21,10 @@ Além disso, realizamos alguns filtros orientados pelo professor responsável pe
 
 1.  Selecionar os alunos de um curso específico.
     ~~~ sql
-        SELECT alunos.nome, cursos.nome, alunos.idCurso FROM cursos
-        INNER JOIN alunos ON alunos.idCurso = cursos.id
-        WHERE cursos.id = x
-        -- x = qualquer id de curso
+    SELECT alunos.nome, cursos.nome, alunos.idCurso FROM cursos
+    INNER JOIN alunos ON alunos.idCurso = cursos.id
+    WHERE cursos.id = x
+    -- x = qualquer id de curso
     ~~~
 
 2. Selecionar todos os alunos de uma disciplina específica com nota maior ou igual a 7.
