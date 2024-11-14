@@ -15,7 +15,7 @@ Este foi um projeto profissional realizado na faculdade que consistiu na criaç�
 
     ![Modelo Lógico](/Modelo_Lógico.jpg "Modelo Lógico")
 
-* Modelo Físico: data_base.sql
+* Modelo Físico: [data_base.sql](https://github.com/LarissaRicarte/Project-MySQL-Sistema-Academico/blob/main/data_base.sql)
 
 Além disso, realizamos alguns filtros orientados pelo professor responsável pelo projeto.
 
